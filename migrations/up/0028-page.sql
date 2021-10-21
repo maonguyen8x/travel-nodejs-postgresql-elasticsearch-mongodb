@@ -1,0 +1,35 @@
+CREATE TABLE IF NOT EXISTS public.page( 
+  	id serial NOT NULL,
+	"name" text NOT NULL,
+	"type" text NOT NULL,
+	email text NOT NULL,
+	phone text NOT NULL,
+	isofficial bool NULL DEFAULT false,
+	isactive bool NOT NULL DEFAULT true,
+	bio text NULL DEFAULT 'A mind that is stretched by a new experience can never go back to its old dimensions.'::text,
+	businesstype text NULL,
+	createdat timestamptz NOT NULL DEFAULT CURRENT_TIMESTAMP,
+	updatedat timestamptz NOT NULL DEFAULT CURRENT_TIMESTAMP,
+	deletedat timestamptz NULL,
+	deletedmessage text null,
+	blockedat timestamptz DEFAULT NULL,
+	blockmessage text null,
+	backgroundmedia text NULL,
+	avatarmedia text NULL,
+	locationid int4 NULL,
+	userid int4 NULL,
+	avatarid int4 NULL,
+	backgroundid int4 NULL,
+	relateduserid int4 NULL,
+    generalinformation jsonb NULL,
+    staypropertytypeid int4 NULL,
+	currencyid int4 NULL,
+	notificationscountnew float4 NOT NULL DEFAULT 0,
+	conversationcountunread float4 NULL DEFAULT 0,
+	CONSTRAINT page_pkey PRIMARY KEY (id),
+	CONSTRAINT uique_name_page UNIQUE (name),
+	CONSTRAINT uique_locationid_page UNIQUE (locationid)
+);
+
+
+CREATE INDEX IF NOT EXISTS page_related_user_id_idx ON public.page USING btree (relateduserid);

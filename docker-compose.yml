@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  web:
+    restart: 'on-failure:5'
+    container_name: uto-web
+    image: uto/server-app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    env_file:
+      - ./environments/dev/.env
+    expose:
+      - 3000
+      - 3001
+    ports:
+      - 3000:3000
+      - 3001:3001

@@ -1,0 +1,65 @@
+variables:
+  DOCKER_DRIVER: overlay2
+
+stages:
+  - test
+#  - build
+#  - deploy
+#  - deploying_stage
+
+test:
+  stage: test
+  script: echo "Running tests"
+#
+#build:
+#  stage: build
+#  before_script:
+#    - export PACKAGE_VERSION=$(cat package.json | grep version | head -1 | awk -F= "{ print $2 }" | sed 's/[version:,\",]//g' | tr -d '[[:space:]]')
+#
+#  script:
+#    - echo "Building the app"
+#    - echo ${PACKAGE_VERSION}
+#    - echo ${SERVER_DEV}
+#
+#deploy_develop:
+#  stage: deploy
+#  environment:
+#    name: deploying
+#    url: ${SERVER_DEV}
+#  before_script:
+#    - apt-get update -qq
+#    - apt-get install -qq git
+#    # Setup SSH deploy keys
+#    - 'which ssh-agent || ( apt-get install -qq openssh-client )'
+#    - eval $(ssh-agent -s)
+#    - ssh-add <(echo "$SSH_PRIVATE_KEY")
+#    - mkdir -p ~/.ssh
+#    - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
+#
+#  script:
+#    - echo "deploy development"
+#    - ssh root@${SERVER_DEV} "cd uto-server && git pull && docker-compose build && docker-compose up -d && exit"
+#  only:
+#    - develop
+#
+#deploy_stage:
+#  stage: deploying_stage
+#  environment:
+#    name: deploying_stage
+#    url: ${SERVER_STAGE_APP}
+#  before_script:
+#    - apt-get update -qq
+#    - apt-get install -qq git
+#    # Setup SSH deploy keys
+#    - 'which ssh-agent || ( apt-get install -qq openssh-client )'
+#    - eval $(ssh-agent -s)
+#    - ssh-add <(echo "$SSH_PRIVATE_KEY")
+#    - mkdir -p ~/.ssh
+#    - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
+#
+#  script:
+#    - echo "deploy stage"
+#    - ssh root@${SERVER_STAGE_APP} "sh deploy.sh && exit"
+#    - ssh root@${SERVER_STAGE_MESSAGE} "sh deploy.sh && exit"
+#  only:
+#    - master

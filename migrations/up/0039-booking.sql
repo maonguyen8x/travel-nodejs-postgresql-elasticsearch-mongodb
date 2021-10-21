@@ -1,0 +1,21 @@
+CREATE TABLE IF NOT EXISTS public.booking (
+	id serial NOT NULL,
+	"type" text NOT NULL,
+	paymethod text NOT NULL,
+	totalprice DECIMAL(19, 4) NOT NULL,
+	currencyid int4 NOT NULL,
+	bookingcode text NOT NULL,
+	status text NOT NULL,
+	createdbyid int4 NOT NULL,
+	createdat timestamptz NULL DEFAULT CURRENT_TIMESTAMP,
+	updatedat timestamptz NULL DEFAULT CURRENT_TIMESTAMP,
+	deletedat timestamptz NULL,
+	pageid int4 NOT NULL,
+	serviceid int4 NOT NULL,
+	actbyid int4 NOT NULL,
+	reasoncancelation text NULL,
+	hasreviewed bool NULL DEFAULT false,
+	cancelby text NULL,
+	CONSTRAINT booking_pkey PRIMARY KEY (id),
+	CONSTRAINT uique_booking_code UNIQUE (bookingcode)
+);

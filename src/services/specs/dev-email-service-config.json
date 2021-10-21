@@ -1,0 +1,10 @@
+{
+  "type": "SMTP",
+  "host": "smtp.gmail.com",
+  "secure": true,
+  "port": 465,
+  "auth": {
+    "user": "dev.utotech@gmail.com",
+    "pass": "Uto2020dev"
+  }
+}

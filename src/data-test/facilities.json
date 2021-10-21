@@ -1,0 +1,167 @@
+[
+  {
+    "name": { "en": "General", "vi": "Tiện ích chung" },
+    "id": 1,
+    "facilities": [
+      {
+        "id": 1,
+        "name": { "en": "Elevator/Lift", "vi": "Thang máy" },
+        "key":  "elevator"
+      },
+      {
+        "id": 2,
+        "name": { "en": "Stair", "vi": "Thang bộ" } ,
+        "key":  "stair"
+      },
+      {
+        "id": 3,
+        "name": { "en": "Meeting room", "vi": "Phòng họp" } ,
+        "key":  "meeting_room"
+      },
+      {
+        "id": 4,
+        "name": { "en": "Garbage disposal area", "vi": "Khu vực đổ rác" },
+        "key":  "garbage_disposal_area"
+      },
+      {
+        "id": 5,
+        "name": { "en": "24/24 front desk", "vi": "Lễ tân 24/24" },
+        "key":  "24/24_front_desk"
+      },
+      {
+        "id": 6,
+        "name": { "en": "Smoking area", "vi": "Khu vực hút thuốc" },
+        "key":  "smoking_area"
+      },
+      {
+        "id": 7,
+        "name": { "en": "Outdoor parking lot", "vi": "Bãi đỗ xe ngoài trời" },
+        "key":  "outdoor_parking_lot"
+      },
+      {
+        "id": 8,
+        "name": { "en": "Indoor parking lot", "vi": "Bãi đỗ xe trong nhà" },
+        "key":  "indoor_parking_lot"
+      },
+      {
+        "id": 9,
+        "name": { "en": "Shared parking lot", "vi": "Bãi đỗ xe chung" },
+        "key":  "shared_parking_lot"
+      },
+      {
+        "id": 10,
+        "name": { "en": "Parking area for car", "vi": "Bãi đỗ ô tô" },
+        "key":  "parking_area_for_car"
+      }
+    ]
+  },
+  {
+    "name": { "en": "Entertainment", "vi": "Tiện ích giải trí" },
+    "id": 2,
+    "facilities": [
+      { "id": 11, "name": { "en": "Billiard", "vi": "Billiard" } , "key":  "billiard"},
+      { "id": 12, "name": { "en": "Table tennis", "vi": "Bóng bàn" } , "key":  "table_tennis"},
+      { "id": 13, "name": { "en": "Fishing", "vi": "Câu cá" }, "key":  "fishing"},
+      { "id": 14, "name": { "en": "Tennis court", "vi": "Sân tennis" } , "key":  "tennis_court"},
+      { "id": 15, "name": { "en": "Terrace", "vi": "Sân thượng" } , "key":  "terrace"},
+      {
+        "id": 16,
+        "name": { "en": "BBQ area", "vi": "Khu vực BBQ với bàn ăn" }, "key":  "bbq_area"
+      },
+      {
+        "id": 17,
+        "name": { "en": "Playground for kids", "vi": "Khu vui chơi trẻ em" }, "key":  "playground_for_kids"
+      },
+      { "id": 18, "name": { "en": "Courtyard/Garden", "vi": "Sân/Vườn" } , "key":  "courtyard/garden"},
+      { "id": 19, "name": { "en": "Infinity pool", "vi": "Bể bơi vô cực" } , "key":  "infinity_pool"},
+      {
+        "id": 20,
+        "name": { "en": "Outdoor pool", "vi": "Bể bơi ngoài trời" }, "key":  "outdoor_pool"
+      },
+      { "id": 21, "name": { "en": "Indoor pool", "vi": "Bể bơi trong nhà" } , "key":  "indoor_pool"}
+    ]
+  },
+  {
+    "name": {
+      "en": "Beauty and Health care",
+      "vi": "Chăm sóc sức khỏe & Làm đẹp"
+    },
+    "id": 3,
+    "facilities": [
+      { "id": 22, "name": { "en": "Gym", "vi": "Gym" } ,"key":  "gym"},
+      { "id": 23, "name": { "en": "Yoga", "vi": "Yoga" } ,"key":  "yoga"},
+      { "id": 24, "name": { "en": "Sauna", "vi": "Sauna" } ,"key":  "sauna"},
+      { "id": 25, "name": { "en": "Spa", "vi": "Spa" } ,"key":  "spa"},
+      { "id": 26, "name": { "en": "Hair salon", "vi": "Tiệm làm tóc" } ,"key":  "hair_salon"},
+      { "id": 27, "name": { "en": "Clinic", "vi": "Phòng khám" } ,"key":  "clinic"},
+      { "id": 28, "name": { "en": "Drugstore", "vi": "Hiệu thuốc" } ,"key":  "drugstore"}
+    ]
+  },
+  {
+    "name": { "en": "Shopping and cuisine", "vi": "Mua sắm & Ăn uống" },
+    "id": 4,
+    "facilities": [
+      { "id": 29, "name": { "en": "Coffee shop", "vi": "Quán cafe" } ,"key":  "coffee_shop"},
+      { "id": 30, "name": { "en": "Bar", "vi": "Bar" } ,"key":  "bar"},
+      { "id": 31, "name": { "en": "Restaurant", "vi": "Nhà hàng" } ,"key":  "restaurant"},
+      {
+        "id": 32,
+        "name": { "en": "Shopping mall", "vi": "Trung tâm thương mại" },"key":  "shopping_mall"
+      },
+      {
+        "id": 33,
+        "name": { "en": "Souvenir shop", "vi": "Cửa hàng lưu niệm" },"key":  "souvenir_shop"
+      }
+    ]
+  },
+  {
+    "name": { "en": "Location", "vi": "Vị trí" },
+    "id": 5,
+    "facilities": [
+      {
+        "id": 34,
+        "name": { "en": "Near golf course", "vi": "Gần sân golf" }, "key":  "near_golf_course"
+      },
+      {
+        "id": 35,
+        "name": { "en": "Near bus stops", "vi": "Gần bến xe bus" }, "key":  "near_bus_stops"
+      },
+      { "id": 36, "name": { "en": "Near stadium", "vi": "Gần bảo tàng" } , "key":  "near_stadium"},
+      { "id": 37, "name": { "en": "Near ATM", "vi": "Gần cây ATM" } , "key":  "near_atm"},
+      { "id": 38, "name": { "en": "Near park", "vi": "Gần công viên" } , "key":  "near_park"}
+    ]
+  },
+  {
+    "name": { "en": "Service", "vi": "Dịch vụ" },
+    "id": 6,
+    "facilities": [
+      {
+        "id": 39,
+        "name": { "en": "Breakfast included", "vi": "Bữa sáng miễn phí" },"key":  "breakfast_included"
+      },
+      {
+        "id": 40,
+        "name": { "en": "Airport shuttle", "vi": "Đưa đón sân bay" },"key":  "airport_shuttle"
+      },
+      {
+        "id": 41,
+        "name": { "en": "Vehicle leasing", "vi": "Cho thuê phương tiện" },"key":  "vehicle_leasing"
+      },
+      {
+        "id": 42,
+        "name": { "en": "Free bicycles", "vi": "Xe đạp miễn phí" },"key":  "free_bicycles"
+      },
+      { "id": 43, "name": { "en": "Travel ticket", "vi": "Dịch vụ bán vé" }, "key":  "travel_ticket"},
+      { "id": 44, "name": { "en": "Laundry", "vi": "Giặt là" }, "key":  "laundry"},
+      {
+        "id": 45,
+        "name": {
+          "en": "Luggage storage before check-in",
+          "vi": "Gửi đồ trước check-in"
+        },"key":  "luggage_storage_before_check_in"
+      }
+    ]
+  }
+
+
+]

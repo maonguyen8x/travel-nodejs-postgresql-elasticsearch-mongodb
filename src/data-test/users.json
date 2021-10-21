@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Admin",
+    "email": "admin@admin.com",
+    "isActive": true,
+    "password": "uspass123",
+    "roles" : "admin"
+  }
+]

@@ -1,0 +1,273 @@
+[
+  {
+    "code": "VND",
+    "text": "Đồng Việt Nam",
+    "symbol": "₫"
+  },
+  {
+    "code": "USD",
+    "text": "Dollar Mỹ",
+    "symbol": "$"
+  },
+  {
+    "code": "AFN",
+    "text": "Afghani",
+    "symbol": "AFN"
+  },
+  {
+    "code": "ZAR",
+    "text": "Rand Nam Phi",
+    "symbol": "R"
+  },
+  {
+    "code": "THB",
+    "text": "Baht Thái",
+    "symbol": "฿"
+  },
+  {
+    "code": "EUR",
+    "text": "Euro",
+    "symbol": "€"
+  },
+  {
+    "code": "BRL",
+    "text": "Real Brasil",
+    "symbol": "R$"
+  },
+  {
+    "code": "EGP",
+    "text": "Bảng Ai Cập",
+    "symbol": "EGP"
+  },
+  {
+    "code": "HUF",
+    "text": "Forint Hungary",
+    "symbol": "Ft"
+  },
+  {
+    "code": "OMR",
+    "text": "Rial Oman",
+    "symbol": "OMR"
+  },
+  {
+    "code": "GBP",
+    "text": "Bảng Anh",
+    "symbol": "£"
+  },
+  {
+    "code": "CHF",
+    "text": "Franc Thụy Sỹ",
+    "symbol": "CHF"
+  },
+  {
+    "code": "QAR",
+    "text": "Rial Qatar",
+    "symbol": "QAR"
+  },
+  {
+    "code": "XPF",
+    "text": "CFP Franc",
+    "symbol": "XPF"
+  },
+  {
+    "code": "UAH",
+    "text": "Grivna Ukraina",
+    "symbol": "грн"
+  },
+  {
+    "code": "KHR",
+    "text": "Riel Campuchia",
+    "symbol": "៛"
+  },
+  {
+    "code": "BHD",
+    "text": "Dinar Bahrain",
+    "symbol": "BHD"
+  },
+  {
+    "code": "LAK",
+    "text": "Kíp Lào",
+    "symbol": "₭"
+  },
+  {
+    "code": "MYR",
+    "text": "Ringgit Malaysia",
+    "symbol": "RM"
+  },
+  {
+    "code": "JOD",
+    "text": "Dinar Jordani",
+    "symbol": "JOD"
+  },
+  {
+    "code": "CZK",
+    "text": "Koruna Séc",
+    "symbol": "Kč"
+  },
+  {
+    "code": "SAR",
+    "text": "Riyal Ả Rập Saudi",
+    "symbol": "SAR"
+  },
+  {
+    "code": "KWD",
+    "text": "Dinar Kuwait",
+    "symbol": "KWD"
+  },
+  {
+    "code": "SEK",
+    "text": "Krona Thụy Điển",
+    "symbol": "SEK"
+  },
+  {
+    "code": "MVR",
+    "text": "Rufiyaa Maldives",
+    "symbol": "Rf"
+  },
+  {
+    "code": "AED",
+    "text": "Dirham Ả Rập",
+    "symbol": "AED"
+  },
+  {
+    "code": "DKK",
+    "text": "Krone Đan Mạch",
+    "symbol": "DKK"
+  },
+  {
+    "code": "RUB",
+    "text": "Rúp Nga",
+    "symbol": "₽"
+  },
+  {
+    "code": "CAD",
+    "text": "Dollar Canada",
+    "symbol": "CAD"
+  },
+  {
+    "code": "NOK",
+    "text": "Krone Na Uy",
+    "symbol": "NOK"
+  },
+  {
+    "code": "INR",
+    "text": "Rupee Ấn Độ",
+    "symbol": "Rs."
+  },
+  {
+    "code": "TWD",
+    "text": "Dollar Đài Loan",
+    "symbol": "NT$"
+  },
+  {
+    "code": "RON",
+    "text": "Leu Rumani",
+    "symbol": "lei"
+  },
+  {
+    "code": "PKR",
+    "text": "Rupee Pakistan",
+    "symbol": "PKR"
+  },
+  {
+    "code": "FJD",
+    "text": "Dollar Fiji",
+    "symbol": "FJ$"
+  },
+  {
+    "code": "BGN",
+    "text": "Lev Bulgari",
+    "symbol": "лв"
+  },
+  {
+    "code": "LKR",
+    "text": "Rupee Sri Lanka",
+    "symbol": "රු"
+  },
+  {
+    "code": "HKD",
+    "text": "Dollar Hong Kong",
+    "symbol": "HKD"
+  },
+  {
+    "code": "TRY",
+    "text": "Lira Thổ Nhĩ Kỳ",
+    "symbol": "TL"
+  },
+  {
+    "code": "IDR",
+    "text": "Rupia Indonesia",
+    "symbol": "Rp"
+  },
+
+  {
+    "code": "NGN",
+    "text": "Naira Nigieria",
+    "symbol": "₦"
+  },
+  {
+    "code": "BDT",
+    "text": "Taka Bangladesh",
+    "symbol": "Tk"
+  },
+  {
+    "code": "NZD",
+    "text": "Dollar New Zealand",
+    "symbol": "NZD"
+  },
+  {
+    "code": "CNY",
+    "text": "Nhân Dân Tệ Trung Quốc",
+    "symbol": "RMB"
+  },
+  {
+    "code": "KZT",
+    "text": "Tenge Kazakh",
+    "symbol": "₸"
+  },
+  {
+    "code": "SGD",
+    "text": "Dollar Singapore",
+    "symbol": "SGD"
+  },
+  {
+    "code": "ARS",
+    "text": "Peso Argentina",
+    "symbol": "AR$"
+  },
+  {
+    "code": "KRW",
+    "text": "Won Hàn Quốc",
+    "symbol": "₩"
+  },
+  {
+    "code": "AUD",
+    "text": "Dollar Úc",
+    "symbol": "AUD"
+  },
+  {
+    "code": "MXN",
+    "text": "Peso Mexico",
+    "symbol": "MXN"
+  },
+  {
+    "code": "JPY",
+    "text": "Yên Nhật",
+    "symbol": "¥"
+  },
+  {
+    "code": "ILS",
+    "text": "Đồng Shekel Israel",
+    "symbol": "₪"
+  },
+  {
+    "code": "PHP",
+    "text": "Peso Philippines",
+    "symbol": "₱"
+  },
+  {
+    "code": "PLN",
+    "text": "Zloty Ba Lan ",
+    "symbol": "zł"
+  }
+]

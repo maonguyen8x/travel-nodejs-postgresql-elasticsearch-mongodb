@@ -1,0 +1,62 @@
+version: "3.2"
+
+services:
+
+  web:
+    restart: "always"
+    container_name: uto-web
+    build:
+      context: .
+      dockerfile: Dockerfile
+    links:
+      - postgresql
+      - redis
+    hostname: "0.0.0.0"
+    environment:
+      - POSTGRESQL_HOST=125.212.238.251
+      - POSTGRESQL_DBNAME=uto_tech
+      - POSTGRESQL_DBUSER=uto_username_prod
+      - POSTGRESQL_DBPASS=uto_password_prod_rwwUm56Xk6rZbnDe
+      - MONGO_HOST=125.212.238.251
+      - MONGO_DBNAME=admin
+      - MONGO_USERNAME=uto_username_prod
+      - MONGO_PASS=uto_password_prod_rwwUm56Xk6rZbnDe
+      - NOTIFICATION_HOST=messenger
+      - REDIS_HOST=redis
+#      - RABBITMQ_HOST=rabbitmq
+      - ELASTICSEARCH_URI=http://125.212.238.251
+      - MEDIA_URI=https://dev-media.utotechzone.com/v1/medias
+      - FB_API=https://graph.facebook.com/me
+      - APPLE_AUTHEN_API_URL=https://appleid.apple.com/auth/keys
+      - PROJECT_EVN_TYPE=development
+    ports:
+      - "3000:3000"
+      - "3001:3001"
+
+  postgresql:
+    restart: "always"
+    container_name: uto-postgresql
+    image: postgres:12
+    environment:
+      - POSTGRES_USER=uto_tech
+      - POSTGRES_DB=uto_tech
+      - POSTGRES_PASSWORD=dbpass123
+    #    volumes:
+    #      - pgsql-data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  redis:
+    container_name: uto-redis
+    restart: "always"
+    image: redis
+    ports:
+      - "6379:6379"
+
+volumes:
+  # static_data:
+  pgsql-data:
+  # es-data:
+  #networks:
+  #  elastic:
+  #    driver: bridge

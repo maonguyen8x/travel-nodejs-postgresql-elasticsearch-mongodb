@@ -1,0 +1,23 @@
+CREATE TABLE IF NOT EXISTS public.tourreservation (
+	id serial NOT NULL,
+	price DECIMAL(19, 4) NOT NULL,
+	numadult int4 NOT NULL,
+	numchildren int4 NOT NULL,
+	pickuppoint text NOT NULL,
+	dropoffpoint text NOT NULL,
+	currencyid int4 NOT NULL,
+	note text NULL,
+	reservationcode text NOT NULL,
+	userinfo jsonb NULL,
+  otheruserinfo jsonb NULL,
+	tourid int4 NOT NULL,
+	startdate timestamptz NOT NULL,
+	enddate timestamptz NULL,
+	metadata jsonb NULL,
+	createdat timestamptz NULL DEFAULT CURRENT_TIMESTAMP,
+	updatedat timestamptz NULL DEFAULT CURRENT_TIMESTAMP,
+	deletedat timestamptz NULL,
+	bookingid int4 NOT NULL,
+	CONSTRAINT tour_reservation_pkey PRIMARY KEY (id),
+	CONSTRAINT uique_reservation_code UNIQUE (reservationcode)
+);

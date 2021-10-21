@@ -1,0 +1,11 @@
+{
+  "name": "postgresql",
+  "connector": "postgresql",
+  "url": "postgres://uto_username_prod:uto_password_prod_rwwUm56Xk6rZbnDe@125.212.238.251:5432/uto_tech",
+  "host": "125.212.238.251",
+  "port": 5432,
+  "user": "uto_username_prod",
+  "password": "uto_password_prod_rwwUm56Xk6rZbnDe",
+  "database": "uto_tech",
+  "idleTimeoutMillis": 100000
+}

@@ -1,0 +1,932 @@
+[
+  {
+    "title": "Hanami Hotel Danang",
+    "description": "Hanami Hotel Danang",
+    "type": "STAY",
+    "coordinates": "16.049153058921547,108.24734687805176",
+    "address": "Hanami Hotel Danang",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ]
+  },
+  {
+    "title": "The Samson Boutique Hotel",
+    "description": "The Samson Boutique Hotel",
+    "type": "STAY",
+    "coordinates": "16.049385175922595,108.24377658794401",
+    "address": "The Samson Boutique Hotel",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 6
+      },
+      {
+        "description": "string",
+        "mediaContentId": 7
+      },
+      {
+        "description": "string",
+        "mediaContentId": 8
+      },
+      {
+        "description": "string",
+        "mediaContentId": 9
+      },
+      {
+        "description": "string",
+        "mediaContentId": 10
+      }
+    ]
+  },
+  {
+    "title": "KHÁCH SẠN BOUTIQUE L'AMORE (L'AMORE BOUTIQUE HOTEL)",
+    "description": "KHÁCH SẠN BOUTIQUE L'AMORE (L'AMORE BOUTIQUE HOTEL)",
+    "type": "STAY",
+    "coordinates": "16.0500220719457,108.244843168538",
+    "address": "KHÁCH SẠN BOUTIQUE L'AMORE (L'AMORE BOUTIQUE HOTEL)",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      },
+      {
+        "description": "string",
+        "mediaContentId": 7
+      },
+      {
+        "description": "string",
+        "mediaContentId": 9
+      },
+      {
+        "description": "string",
+        "mediaContentId": 11
+      }
+    ]
+  },
+  {
+    "title": "Khách sạn La Merci 2 Đà Nẵng ( Khách sạn Sunsea Đà Nẵng) (SunSea Hotel)",
+    "description": "Khách sạn La Merci 2 Đà Nẵng ( Khách sạn Sunsea Đà Nẵng) (SunSea Hotel)",
+    "type": "STAY",
+    "coordinates": "16.063119888305664,108.23731994628906",
+    "address": "The Nang Suites",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 6
+      },
+      {
+        "description": "string",
+        "mediaContentId": 8
+      },
+      {
+        "description": "string",
+        "mediaContentId": 10
+      }
+    ]
+  },
+  {
+    "title": "LA BEACH HOTEL",
+    "description": "LA BEACH HOTEL",
+    "type": "STAY",
+    "coordinates": "16.081417675004605,108.2455831451573",
+    "address": "TULIPGARDEN APARTMENT &HOTEL 1PR",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 11
+      },
+      {
+        "description": "string",
+        "mediaContentId": 12
+      },
+      {
+        "description": "string",
+        "mediaContentId": 13
+      },
+      {
+        "description": "string",
+        "mediaContentId": 14
+      },
+      {
+        "description": "string",
+        "mediaContentId": 15
+      }
+    ]
+  },
+  {
+    "title": "Happy Sky Hotel",
+    "description": "Happy Sky Hotel",
+    "type": "STAY",
+    "coordinates": "16.0672286351887,108.244276111307",
+    "address": "Happy Sky Hotel",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 16
+      },
+      {
+        "description": "string",
+        "mediaContentId": 17
+      },
+      {
+        "description": "string",
+        "mediaContentId": 18
+      },
+      {
+        "description": "string",
+        "mediaContentId": 19
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      }
+    ]
+  },
+  {
+    "title": "Tour 1",
+    "description": "Happy Sky Hotel",
+    "type": "TOUR",
+    "price": {
+      "product": "Người",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "coordinates": "16.0672286351887,108.244276111307",
+    "address": "Happy Sky Hotel",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 16
+      },
+      {
+        "description": "string",
+        "mediaContentId": 17
+      },
+      {
+        "description": "string",
+        "mediaContentId": 18
+      },
+      {
+        "description": "string",
+        "mediaContentId": 19
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      }
+    ]
+  },
+  {
+    "title": "Tour 2",
+    "description": "Khách sạn La Merci 2 Đà Nẵng ( Khách sạn Sunsea Đà Nẵng) (SunSea Hotel)",
+    "type": "TOUR",
+    "coordinates": "16.063119888305664,108.23731994628906",
+    "address": "The Nang Suites",
+    "price": {
+      "product": "Người",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 6
+      },
+      {
+        "description": "string",
+        "mediaContentId": 8
+      },
+      {
+        "description": "string",
+        "mediaContentId": 10
+      }
+    ]
+  },
+  {
+    "title": "Tour 3",
+    "description": "LA BEACH HOTEL",
+    "type": "TOUR",
+    "price": {
+      "product": "Người",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "coordinates": "16.081417675004605,108.2455831451573",
+    "address": "TULIPGARDEN APARTMENT &HOTEL 1PR",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 11
+      },
+      {
+        "description": "string",
+        "mediaContentId": 12
+      },
+      {
+        "description": "string",
+        "mediaContentId": 13
+      },
+      {
+        "description": "string",
+        "mediaContentId": 14
+      },
+      {
+        "description": "string",
+        "mediaContentId": 15
+      }
+    ]
+  },
+  {
+    "title": "Tour 4",
+    "description": "Happy Sky Hotel",
+    "type": "TOUR",
+    "price": {
+      "product": "Người",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "coordinates": "16.0672286351887,108.244276111307",
+    "address": "Happy Sky Hotel",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 16
+      },
+      {
+        "description": "string",
+        "mediaContentId": 17
+      },
+      {
+        "description": "string",
+        "mediaContentId": 18
+      },
+      {
+        "description": "string",
+        "mediaContentId": 19
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      }
+    ]
+  },
+  {
+    "title": "Hanami Hotel Danang",
+    "description": "Hanami Hotel Danang",
+    "type": "STAY",
+    "coordinates": "16.049153058921547,108.24734687805176",
+    "address": "Hanami Hotel Danang",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ]
+  },
+  {
+    "title": "The Samson Boutique Hotel",
+    "description": "The Samson Boutique Hotel",
+    "type": "STAY",
+    "coordinates": "16.049385175922595,108.24377658794401",
+    "address": "The Samson Boutique Hotel",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 6
+      },
+      {
+        "description": "string",
+        "mediaContentId": 7
+      },
+      {
+        "description": "string",
+        "mediaContentId": 8
+      },
+      {
+        "description": "string",
+        "mediaContentId": 9
+      },
+      {
+        "description": "string",
+        "mediaContentId": 10
+      }
+    ]
+  },
+  {
+    "title": "KHÁCH SẠN BOUTIQUE L'AMORE (L'AMORE BOUTIQUE HOTEL)",
+    "description": "KHÁCH SẠN BOUTIQUE L'AMORE (L'AMORE BOUTIQUE HOTEL)",
+    "type": "STAY",
+    "coordinates": "16.0500220719457,108.244843168538",
+    "address": "KHÁCH SẠN BOUTIQUE L'AMORE (L'AMORE BOUTIQUE HOTEL)",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      },
+      {
+        "description": "string",
+        "mediaContentId": 7
+      },
+      {
+        "description": "string",
+        "mediaContentId": 9
+      },
+      {
+        "description": "string",
+        "mediaContentId": 11
+      }
+    ]
+  },
+  {
+    "title": "Khách sạn La Merci 2 Đà Nẵng ( Khách sạn Sunsea Đà Nẵng) (SunSea Hotel)",
+    "description": "Khách sạn La Merci 2 Đà Nẵng ( Khách sạn Sunsea Đà Nẵng) (SunSea Hotel)",
+    "type": "STAY",
+    "coordinates": "16.063119888305664,108.23731994628906",
+    "address": "The Nang Suites",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 6
+      },
+      {
+        "description": "string",
+        "mediaContentId": 8
+      },
+      {
+        "description": "string",
+        "mediaContentId": 10
+      }
+    ]
+  },
+  {
+    "title": "LA BEACH HOTEL",
+    "description": "LA BEACH HOTEL",
+    "type": "STAY",
+    "coordinates": "16.081417675004605,108.2455831451573",
+    "address": "TULIPGARDEN APARTMENT &HOTEL 1PR",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 11
+      },
+      {
+        "description": "string",
+        "mediaContentId": 12
+      },
+      {
+        "description": "string",
+        "mediaContentId": 13
+      },
+      {
+        "description": "string",
+        "mediaContentId": 14
+      },
+      {
+        "description": "string",
+        "mediaContentId": 15
+      }
+    ]
+  },
+  {
+    "title": "Happy Sky Hotel",
+    "description": "Happy Sky Hotel",
+    "type": "STAY",
+    "coordinates": "16.0672286351887,108.244276111307",
+    "address": "Happy Sky Hotel",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 16
+      },
+      {
+        "description": "string",
+        "mediaContentId": 17
+      },
+      {
+        "description": "string",
+        "mediaContentId": 18
+      },
+      {
+        "description": "string",
+        "mediaContentId": 19
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      }
+    ]
+  },
+  {
+    "title": "Tour 5",
+    "description": "Happy Sky Hotel",
+    "type": "TOUR",
+    "price": {
+      "product": "Người",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "coordinates": "16.0672286351887,108.244276111307",
+    "address": "Happy Sky Hotel",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 16
+      },
+      {
+        "description": "string",
+        "mediaContentId": 17
+      },
+      {
+        "description": "string",
+        "mediaContentId": 18
+      },
+      {
+        "description": "string",
+        "mediaContentId": 19
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      }
+    ]
+  },
+  {
+    "title": "Tour 6",
+    "description": "Khách sạn La Merci 2 Đà Nẵng ( Khách sạn Sunsea Đà Nẵng) (SunSea Hotel)",
+    "type": "TOUR",
+    "price": {
+      "product": "Người",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "coordinates": "16.063119888305664,108.23731994628906",
+    "address": "The Nang Suites",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 6
+      },
+      {
+        "description": "string",
+        "mediaContentId": 8
+      },
+      {
+        "description": "string",
+        "mediaContentId": 10
+      }
+    ]
+  },
+  {
+    "title": "Tour 7",
+    "description": "LA BEACH HOTEL",
+    "type": "TOUR",
+    "price": {
+      "product": "Người",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "coordinates": "16.081417675004605,108.2455831451573",
+    "address": "TULIPGARDEN APARTMENT &HOTEL 1PR",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 11
+      },
+      {
+        "description": "string",
+        "mediaContentId": 12
+      },
+      {
+        "description": "string",
+        "mediaContentId": 13
+      },
+      {
+        "description": "string",
+        "mediaContentId": 14
+      },
+      {
+        "description": "string",
+        "mediaContentId": 15
+      }
+    ]
+  },
+  {
+    "title": "Tour 8",
+    "description": "Happy Sky Hotel",
+    "type": "TOUR",
+    "price": {
+      "product": "Người",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "coordinates": "16.0672286351887,108.244276111307",
+    "address": "Happy Sky Hotel",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 16
+      },
+      {
+        "description": "string",
+        "mediaContentId": 17
+      },
+      {
+        "description": "string",
+        "mediaContentId": 18
+      },
+      {
+        "description": "string",
+        "mediaContentId": 19
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      }
+    ]
+  },
+  {
+    "title": "Hanami Hotel Danang",
+    "description": "Hanami Hotel Danang",
+    "type": "STAY",
+    "coordinates": "16.049153058921547,108.24734687805176",
+    "address": "Hanami Hotel Danang",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ]
+  },
+  {
+    "title": "The Samson Boutique Hotel",
+    "description": "The Samson Boutique Hotel",
+    "type": "STAY",
+    "coordinates": "16.049385175922595,108.24377658794401",
+    "address": "The Samson Boutique Hotel",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 6
+      },
+      {
+        "description": "string",
+        "mediaContentId": 7
+      },
+      {
+        "description": "string",
+        "mediaContentId": 8
+      },
+      {
+        "description": "string",
+        "mediaContentId": 9
+      },
+      {
+        "description": "string",
+        "mediaContentId": 10
+      }
+    ]
+  },
+  {
+    "title": "KHÁCH SẠN BOUTIQUE L'AMORE (L'AMORE BOUTIQUE HOTEL)",
+    "description": "KHÁCH SẠN BOUTIQUE L'AMORE (L'AMORE BOUTIQUE HOTEL)",
+    "type": "STAY",
+    "coordinates": "16.0500220719457,108.244843168538",
+    "address": "KHÁCH SẠN BOUTIQUE L'AMORE (L'AMORE BOUTIQUE HOTEL)",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      },
+      {
+        "description": "string",
+        "mediaContentId": 7
+      },
+      {
+        "description": "string",
+        "mediaContentId": 9
+      },
+      {
+        "description": "string",
+        "mediaContentId": 11
+      }
+    ]
+  },
+  {
+    "title": "Khách sạn La Merci 2 Đà Nẵng ( Khách sạn Sunsea Đà Nẵng) (SunSea Hotel)",
+    "description": "Khách sạn La Merci 2 Đà Nẵng ( Khách sạn Sunsea Đà Nẵng) (SunSea Hotel)",
+    "type": "STAY",
+    "coordinates": "16.063119888305664,108.23731994628906",
+    "address": "The Nang Suites",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 6
+      },
+      {
+        "description": "string",
+        "mediaContentId": 8
+      },
+      {
+        "description": "string",
+        "mediaContentId": 10
+      }
+    ]
+  },
+  {
+    "title": "LA BEACH HOTEL",
+    "description": "LA BEACH HOTEL",
+    "type": "STAY",
+    "coordinates": "16.081417675004605,108.2455831451573",
+    "address": "TULIPGARDEN APARTMENT &HOTEL 1PR",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 11
+      },
+      {
+        "description": "string",
+        "mediaContentId": 12
+      },
+      {
+        "description": "string",
+        "mediaContentId": 13
+      },
+      {
+        "description": "string",
+        "mediaContentId": 14
+      },
+      {
+        "description": "string",
+        "mediaContentId": 15
+      }
+    ]
+  },
+  {
+    "title": "Happy Sky Hotel",
+    "description": "Happy Sky Hotel",
+    "type": "STAY",
+    "coordinates": "16.0672286351887,108.244276111307",
+    "address": "Happy Sky Hotel",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 16
+      },
+      {
+        "description": "string",
+        "mediaContentId": 17
+      },
+      {
+        "description": "string",
+        "mediaContentId": 18
+      },
+      {
+        "description": "string",
+        "mediaContentId": 19
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      }
+    ]
+  },
+  {
+    "title": "Tour 9",
+    "description": "Happy Sky Hotel",
+    "type": "TOUR",
+    "price": {
+      "product": "Người",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "coordinates": "16.0672286351887,108.244276111307",
+    "address": "Happy Sky Hotel",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 16
+      },
+      {
+        "description": "string",
+        "mediaContentId": 17
+      },
+      {
+        "description": "string",
+        "mediaContentId": 18
+      },
+      {
+        "description": "string",
+        "mediaContentId": 19
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      }
+    ]
+  },
+  {
+    "title": "Tour 10",
+    "description": "Khách sạn La Merci 2 Đà Nẵng ( Khách sạn Sunsea Đà Nẵng) (SunSea Hotel)",
+    "type": "TOUR",
+    "price": {
+      "product": "Người",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "coordinates": "16.063119888305664,108.23731994628906",
+    "address": "The Nang Suites",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 6
+      },
+      {
+        "description": "string",
+        "mediaContentId": 8
+      },
+      {
+        "description": "string",
+        "mediaContentId": 10
+      }
+    ]
+  },
+  {
+    "title": "Tour 11",
+    "description": "LA BEACH HOTEL",
+    "type": "TOUR",
+    "price": {
+      "product": "Người",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "coordinates": "16.081417675004605,108.2455831451573",
+    "address": "TULIPGARDEN APARTMENT &HOTEL 1PR",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 11
+      },
+      {
+        "description": "string",
+        "mediaContentId": 12
+      },
+      {
+        "description": "string",
+        "mediaContentId": 13
+      },
+      {
+        "description": "string",
+        "mediaContentId": 14
+      },
+      {
+        "description": "string",
+        "mediaContentId": 15
+      }
+    ]
+  },
+  {
+    "title": "Tour 12",
+    "description": "Happy Sky Hotel",
+    "type": "TOUR",
+    "price": {
+      "product": "Người",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "coordinates": "16.0672286351887,108.244276111307",
+    "address": "Happy Sky Hotel",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 16
+      },
+      {
+        "description": "string",
+        "mediaContentId": 17
+      },
+      {
+        "description": "string",
+        "mediaContentId": 18
+      },
+      {
+        "description": "string",
+        "mediaContentId": 19
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      }
+    ]
+  }
+]

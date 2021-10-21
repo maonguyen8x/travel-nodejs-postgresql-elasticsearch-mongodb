@@ -1,0 +1,31 @@
+CREATE TABLE IF NOT EXISTS public.notification (
+	notificationtype text NULL,
+	id serial NOT NULL,
+	status text NULL,
+	count int4 NULL DEFAULT 0,
+	participants text NULL,
+	"read" bool NULL DEFAULT false,
+	createdat timestamptz DEFAULT CURRENT_TIMESTAMP,
+	updatedat timestamptz DEFAULT CURRENT_TIMESTAMP,
+	deletedat timestamptz DEFAULT NULL,
+	userid int4 NOT NULL,
+	targetpostid int4 NULL,
+	eventcreatorid int4 NULL,
+	commentid int4 NULL,
+	childcommentid int4 NULL,
+	rankingid int4 NULL,
+	replyrankingid int4 NULL,
+	bookingid int4 NULL,
+	notificationfor text NULL,
+	pageid int4 NULL,
+	pagereviewid int4 NULL,
+	conversationid text NULL,
+	locationrequestid int4 NULL,
+	reportid int4 NULL,
+	feedbackid int4 NULL,
+	metadata jsonb NULL,
+	cancelby text NULL,
+	CONSTRAINT notification_pkey PRIMARY KEY (id)
+);
+
+CREATE INDEX IF NOT EXISTS notification_user_id_idx ON public.notification USING btree (userid);

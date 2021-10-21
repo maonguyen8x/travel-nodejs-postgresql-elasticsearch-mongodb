@@ -1,0 +1,785 @@
+[
+  {
+    "name": {
+      "en": "Bathroom",
+      "vi": "Phòng tắm"
+    },
+    "id": 3,
+    "amenities": [
+      {
+        "id": 29,
+        "keyword": "bath_tub",
+        "name": {
+          "en": "Bath tub",
+          "vi": "Bồn tắm"
+        }
+      },
+      {
+        "id": 30,
+        "keyword": "shower_booth",
+        "name": {
+          "en": "Shower booth",
+          "vi": "Buồng tắm đứng"
+        }
+      },
+      {
+        "id": 31,
+        "keyword": "toilet",
+        "name": {
+          "en": "Toilet",
+          "vi": "Toilet"
+        }
+      },
+      {
+        "id": 32,
+        "keyword": "bathroom_heater",
+        "name": {
+          "en": "Bathroom heater",
+          "vi": "Đèn sưởi nhà tắm"
+        }
+      },
+      {
+        "id": 33,
+        "keyword": "towels",
+        "name": {
+          "en": "Towels",
+          "vi": "Khăn tắm"
+        }
+      },
+      {
+        "id": 34,
+        "keyword": "shampoo,_hair_conditioner",
+        "name": {
+          "en": "Shampoo, Hair conditioner",
+          "vi": "Dầu gội, dầu xả"
+        }
+      },
+      {
+        "id": 35,
+        "keyword": "body_wash/soap",
+        "name": {
+          "en": "Body wash/Soap",
+          "vi": "Sữa tắm/Xà phòng"
+        }
+      },
+      {
+        "id": 36,
+        "keyword": "towel_paper",
+        "name": {
+          "en": "Towel paper",
+          "vi": "Giấy vệ sinh"
+        }
+      },
+      {
+        "id": 37,
+        "keyword": "toothpaste,_toothbrush",
+        "name": {
+          "en": "Toothpaste, Toothbrush",
+          "vi": "Kem/Bàn chải đánh răng"
+        }
+      },
+      {
+        "id": 38,
+        "keyword": "shower_cap",
+        "name": {
+          "en": "Shower cap",
+          "vi": "Mũ tắm"
+        }
+      },
+      {
+        "id": 39,
+        "keyword": "free_toiletries",
+        "name": {
+          "en": "Free toiletries",
+          "vi": "Đồ vệ sinh cá nhân miễn phí"
+        }
+      },
+      {
+        "id": 40,
+        "keyword": "bidet_sprayer",
+        "name": {
+          "en": "Bidet sprayer",
+          "vi": "Vòi xịt"
+        }
+      }
+    ]
+  },
+  {
+    "name": {
+      "en": "Kitchen",
+      "vi": "Phòng bếp"
+    },
+    "id": 4,
+    "amenities": [
+      {
+        "id": 41,
+        "keyword": "electric_stove/magnetic_stove",
+        "name": {
+          "en": "Electric stove/Magnetic stove",
+          "vi": "Bếp điện/Bếp từ"
+        }
+      },
+      {
+        "id": 42,
+        "keyword": "gas_stove",
+        "name": {
+          "en": "Gas stove",
+          "vi": "Bếp ga"
+        }
+      },
+      {
+        "id": 43,
+        "keyword": "bbq_grill",
+        "name": {
+          "en": "BBQ grill",
+          "vi": "Bếp nướng BBQ"
+        }
+      },
+      {
+        "id": 44,
+        "keyword": "hotpot",
+        "name": {
+          "en": "Hotpot",
+          "vi": "Nồi lẩu"
+        }
+      },
+      {
+        "id": 45,
+        "keyword": "rice_cooker",
+        "name": {
+          "en": "Rice cooker",
+          "vi": "Nồi cơm điện"
+        }
+      },
+      {
+        "id": 46,
+        "keyword": "kettle",
+        "name": {
+          "en": "Kettle",
+          "vi": "Ấm đun nước"
+        }
+      },
+      {
+        "id": 47,
+        "keyword": "basic_seasonings",
+        "name": {
+          "en": "Basic seasonings",
+          "vi": "Gia vị nấu ăn cơ bản"
+        }
+      },
+      {
+        "id": 48,
+        "keyword": "oven",
+        "name": {
+          "en": "Oven",
+          "vi": "Lò nướng"
+        }
+      },
+      {
+        "id": 49,
+        "keyword": "microwave_oven",
+        "name": {
+          "en": "Microwave oven",
+          "vi": "Lò vi sóng"
+        }
+      },
+      {
+        "id": 50,
+        "keyword": "toaster",
+        "name": {
+          "en": "Toaster",
+          "vi": "Máy nướng bánh mì"
+        }
+      },
+      {
+        "id": 51,
+        "keyword": "cookwares",
+        "name": {
+          "en": "Cookwares",
+          "vi": "Dụng cụ nấu ăn"
+        }
+      },
+      {
+        "id": 52,
+        "keyword": "dishwasher",
+        "name": {
+          "en": "Dishwasher",
+          "vi": "Máy rửa bát"
+        }
+      },
+      {
+        "id": 53,
+        "keyword": "charcoal",
+        "name": {
+          "en": "Charcoal",
+          "vi": "Than củi"
+        }
+      },
+      {
+        "id": 54,
+        "keyword": "eating_utensils",
+        "name": {
+          "en": "Eating utensils",
+          "vi": "Bát đĩa"
+        }
+      },
+      {
+        "id": 55,
+        "keyword": "cups",
+        "name": {
+          "en": "Cups",
+          "vi": "Ly cốc"
+        }
+      },
+      {
+        "id": 56,
+        "keyword": "dining_table set",
+        "name": {
+          "en": "Dining table set",
+          "vi": "Bộ bàn ăn"
+        }
+      },
+      {
+        "id": 57,
+        "keyword": "tissue",
+        "name": {
+          "en": "Tissue",
+          "vi": "Giấy ăn"
+        }
+      }
+    ]
+  },
+  {
+    "name": {
+      "en": "General",
+      "vi": "Chung"
+    },
+    "id": 1,
+    "amenities": [
+      {
+        "id": 1,
+        "keyword": "wifi",
+        "name": {
+          "en": "Wifi",
+          "vi": "Wifi"
+        }
+      },
+      {
+        "id": 2,
+        "keyword": "internet",
+        "name": {
+          "en": "Internet",
+          "vi": "Internet"
+        }
+      },
+      {
+        "id": 3,
+        "keyword": "tv",
+        "name": {
+          "en": "TV",
+          "vi": "TV"
+        }
+      },
+      {
+        "id": 4,
+        "keyword": "air-conditioner",
+        "name": {
+          "en": "Air-conditioner",
+          "vi": "Điều hòa"
+        }
+      },
+      {
+        "id": 5,
+        "keyword": "fan",
+        "name": {
+          "en": "Fan",
+          "vi": "Quạt"
+        }
+      },
+      {
+        "id": 6,
+        "keyword": "private_entrance",
+        "name": {
+          "en": "Private entrance",
+          "vi": "Lối đi riêng"
+        }
+      },
+      {
+        "id": 7,
+        "keyword": "hair-dryer",
+        "name": {
+          "en": "Hair-dryer",
+          "vi": "Máy sấy"
+        }
+      },
+      {
+        "id": 8,
+        "keyword": "water_heater",
+        "name": {
+          "en": "Water heater",
+          "vi": "Bình nóng lạnh"
+        }
+      },
+      {
+        "id": 9,
+        "keyword": "washing_machine",
+        "name": {
+          "en": "Washing machine",
+          "vi": "Máy giặt"
+        }
+      },
+      {
+        "id": 10,
+        "keyword": "detergent",
+        "name": {
+          "en": "Detergent",
+          "vi": "Bột giặt/Nước giặt"
+        }
+      },
+      {
+        "id": 11,
+        "keyword": "clothes_dryer",
+        "name": {
+          "en": "Clothes dryer",
+          "vi": "Máy sấy quần áo"
+        }
+      },
+      {
+        "id": 12,
+        "keyword": "babies/toddlers_welcome",
+        "name": {
+          "en": "Babies/Toddlers welcome",
+          "vi": "Phù hợp cho trẻ nhỏ"
+        }
+      },
+      {
+        "id": 13,
+        "keyword": "toddler_crib",
+        "name": {
+          "en": "Toddler crib",
+          "vi": "Cũi cho trẻ nhỏ"
+        }
+      },
+      {
+        "id": 14,
+        "keyword": "working_desk",
+        "name": {
+          "en": "Working desk",
+          "vi": "Bàn làm việc"
+        }
+      },
+      {
+        "id": 15,
+        "keyword": "iron/iron_board",
+        "name": {
+          "en": "Iron/Iron board",
+          "vi": "Bàn là/Bàn ủi"
+        }
+      },
+      {
+        "id": 16,
+        "keyword": "refrigerator",
+        "name": {
+          "en": "Refrigerator",
+          "vi": "Tủ lạnh"
+        }
+      },
+      {
+        "id": 17,
+        "keyword": "drying_rack",
+        "name": {
+          "en": "Drying rack",
+          "vi": "Giá phơi quần áo"
+        }
+      },
+      {
+        "id": 18,
+        "keyword": "slippers",
+        "name": {
+          "en": "Slippers",
+          "vi": "Dép"
+        }
+      },
+      {
+        "id": 19,
+        "keyword": "cleanin_tools",
+        "name": {
+          "en": "Cleaning tools",
+          "vi": "Dụng cụ dọn dẹp"
+        }
+      },
+      {
+        "id": 20,
+        "keyword": "windows",
+        "name": {
+          "en": "Windows",
+          "vi": "Cửa sổ"
+        }
+      },
+      {
+        "id": 21,
+        "keyword": "sofa",
+        "name": {
+          "en": "Sofa",
+          "vi": "Ghế sofa"
+        }
+      },
+      {
+        "id": 22,
+        "keyword": "220v_voltage_socket",
+        "name": {
+          "en": "220V voltage socket",
+          "vi": "Ổ cắm điện 220V"
+        }
+      },
+      {
+        "id": 23,
+        "keyword": "110v_voltage_socket",
+        "name": {
+          "en": "110V voltage socket",
+          "vi": "Ổ cắm điện 110V"
+        }
+      },
+      {
+        "id": 24,
+        "keyword": "free_drinkable_water",
+        "name": {
+          "en": "Free drinkable water",
+          "vi": "Nước uống miễn phí"
+        }
+      }
+    ]
+  },
+  {
+    "name": {
+      "en": "Special amenities",
+      "vi": "Tiện nghi đặc biệt"
+    },
+    "id": 6,
+    "amenities": [
+      {
+        "id": 62,
+        "keyword": "balcony",
+        "name": {
+          "en": "Balcony",
+          "vi": "Ban công"
+        }
+      },
+      {
+        "id": 63,
+        "keyword": "private_bbq_area",
+        "name": {
+          "en": "Private BBQ area",
+          "vi": "Khu vực BBQ riêng"
+        }
+      },
+      {
+        "id": 64,
+        "keyword": "private_courtyard/garden",
+        "name": {
+          "en": "Private Courtyard/Garden",
+          "vi": "Sân/Vườn riêng"
+        }
+      },
+      {
+        "id": 65,
+        "keyword": "private_swimming_pool",
+        "name": {
+          "en": "Private swimming pool",
+          "vi": "Bể bơi riêng"
+        }
+      },
+      {
+        "id": 66,
+        "keyword": "private_parking_lot",
+        "name": {
+          "en": "Private parking lot",
+          "vi": "Bãi đỗ xe riêng"
+        }
+      },
+      {
+        "id": 67,
+        "keyword": "massage_chair",
+        "name": {
+          "en": "Massage chair",
+          "vi": "Ghế massage"
+        }
+      },
+      {
+        "id": 68,
+        "keyword": "tantra",
+        "name": {
+          "en": "Tantra",
+          "vi": "Ghế tantra"
+        }
+      },
+      {
+        "id": 69,
+        "keyword": "smart_house",
+        "name": {
+          "en": "Smart house",
+          "vi": "Nhà thông minh"
+        }
+      },
+      {
+        "id": 70,
+        "keyword": "first_aid_kits",
+        "name": {
+          "en": "First aid kits",
+          "vi": "Hộp y tế"
+        }
+      },
+      {
+        "id": 71,
+        "keyword": "coffee_machine",
+        "name": {
+          "en": "Coffee machine",
+          "vi": "Máy pha cà phê"
+        }
+      },
+      {
+        "id": 72,
+        "keyword": "smart_tv/internet_tv",
+        "name": {
+          "en": "Smart TV/Internet TV",
+          "vi": "Smart TV/Internet TV"
+        }
+      },
+      {
+        "id": 73,
+        "keyword": "karaoke",
+        "name": {
+          "en": "Karaoke",
+          "vi": "Karaoke"
+        }
+      },
+      {
+        "id": 74,
+        "keyword": "jacuzzi",
+        "name": {
+          "en": "Jacuzzi",
+          "vi": "Jacuzzi"
+        }
+      },
+      {
+        "id": 75,
+        "keyword": "speaker",
+        "name": {
+          "en": "Speaker",
+          "vi": "Loa"
+        }
+      },
+      {
+        "id": 76,
+        "keyword": "mosquito_net",
+        "name": {
+          "en": "Mosquito net",
+          "vi": "Lưới chống muỗi"
+        }
+      },
+      {
+        "id": 77,
+        "keyword": "playstation",
+        "name": {
+          "en": "Playstation",
+          "vi": "Playstation"
+        }
+      },
+      {
+        "id": 78,
+        "keyword": "xbox",
+        "name": {
+          "en": "Xbox",
+          "vi": "Xbox"
+        }
+      },
+      {
+        "id": 79,
+        "keyword": "fireplace",
+        "name": {
+          "en": "Fireplace",
+          "vi": "Lò sưởi"
+        }
+      }
+    ]
+  },
+  {
+    "name": {
+      "en": "Bedroom",
+      "vi": "Phòng ngủ"
+    },
+    "id": 2,
+    "amenities": [
+      {
+        "id": 25,
+        "keyword": "wardrobe",
+        "name": {
+          "en": "Wardrobe",
+          "vi": "Tủ quần áo"
+        }
+      },
+      {
+        "id": 26,
+        "keyword": "clothes_hangers",
+        "name": {
+          "en": "Clothes hangers",
+          "vi": "Móc treo quần áo"
+        }
+      },
+      {
+        "id": 27,
+        "keyword": "extra_mattress",
+        "name": {
+          "en": "Extra mattress",
+          "vi": "Đệm bổ sung"
+        }
+      },
+      {
+        "id": 28,
+        "keyword": "makeup_desk",
+        "name": {
+          "en": "Makeup desk",
+          "vi": "Bàn trang điểm"
+        }
+      }
+    ]
+  },
+  {
+    "name": {
+      "en": "Safety",
+      "vi": "Thiết bị an toàn"
+    },
+    "id": 5,
+    "amenities": [
+      {
+        "id": 58,
+        "keyword": "fire_alarm",
+        "name": {
+          "en": "Fire alarm",
+          "vi": "Còi báo cháy"
+        }
+      },
+      {
+        "id": 59,
+        "keyword": "fire_extinguisher",
+        "name": {
+          "en": "Fire extinguisher",
+          "vi": "Bình chữa cháy"
+        }
+      },
+      {
+        "id": 60,
+        "keyword": "anti-theft_lock",
+        "name": {
+          "en": "Anti-theft lock",
+          "vi": "Khóa chống trộm"
+        }
+      },
+      {
+        "id": 61,
+        "keyword": "safe_box",
+        "name": {
+          "en": "Safe box",
+          "vi": "Két an toàn"
+        }
+      }
+    ]
+  },
+  {
+    "name": {
+      "en": "View",
+      "vi": "Cảnh quan"
+    },
+    "id": 7,
+    "amenities": [
+      {
+        "id": 80,
+        "keyword": "bay_view",
+        "name": {
+          "en": "Bay view",
+          "vi": "View vịnh"
+        }
+      },
+      {
+        "id": 81,
+        "keyword": "city_view",
+        "name": {
+          "en": "City view",
+          "vi": "View thành phố"
+        }
+      },
+      {
+        "id": 82,
+        "keyword": "sea_view",
+        "name": {
+          "en": "Sea view",
+          "vi": "View biển"
+        }
+      },
+      {
+        "id": 83,
+        "keyword": "harbor_view",
+        "name": {
+          "en": "Harbor view",
+          "vi": "View cảng"
+        }
+      },
+      {
+        "id": 84,
+        "keyword": "river_view",
+        "name": {
+          "en": "River view",
+          "vi": "View sông"
+        }
+      },
+      {
+        "id": 85,
+        "keyword": "lake_view",
+        "name": {
+          "en": "Lake view",
+          "vi": "View hồ"
+        }
+      },
+      {
+        "id": 86,
+        "keyword": "mountain_view",
+        "name": {
+          "en": "Mountain view",
+          "vi": "View núi đồi"
+        }
+      },
+      {
+        "id": 87,
+        "keyword": "pool_view",
+        "name": {
+          "en": "Pool view",
+          "vi": "View bể bơi"
+        }
+      },
+      {
+        "id": 88,
+        "keyword": "garden_view",
+        "name": {
+          "en": "Garden view",
+          "vi": "View sân vườn"
+        }
+      },
+      {
+        "id": 89,
+        "keyword": "park_view",
+        "name": {
+          "en": "Park view",
+          "vi": "View công viên"
+        }
+      },
+      {
+        "id": 90,
+        "keyword": "forest_view",
+        "name": {
+          "en": "Forest view",
+          "vi": "View rừng cây"
+        }
+      }
+    ]
+  }
+]

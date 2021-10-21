@@ -1,0 +1,33 @@
+CREATE TABLE IF NOT EXISTS public.posts (
+	id serial NOT NULL,
+	medias text NULL,
+	"content" text NULL,
+	posttype text NULL DEFAULT 'CREATED'::text,
+	accesstype text NULL DEFAULT 'PUBLIC'::text,
+	ispubliclocation bool NULL DEFAULT false,
+	ispublicplan bool NULL DEFAULT true,
+	showonprofile bool NULL DEFAULT true,
+	backgroundpost text NULL,
+	averagepoint int4 NULL DEFAULT 0,
+	totallike int4 NULL DEFAULT 0,
+	totalranking int4 NULL DEFAULT 0,
+	totalshare int4 NULL DEFAULT 0,
+	totalcomment int4 NULL DEFAULT 0,
+	blockmessage text null,
+	createdat timestamptz DEFAULT CURRENT_TIMESTAMP,
+	updatedat timestamptz DEFAULT CURRENT_TIMESTAMP,
+	deletedat timestamptz DEFAULT NULL,
+	blockedat timestamptz DEFAULT NULL,
+	listusersreceivenotifications text NULL,
+	creatorid int4 NOT NULL,
+	locationid int4 NULL,
+	sourcepostid int4 NULL,
+	pageid int4 NULL,
+	planid int4 NULL,
+	metadata jsonb NULL,
+	status text NULL DEFAULT 'PUBLIC'::text,
+	firstmediatype text NOT NULL DEFAULT 'NONE'::text,
+	CONSTRAINT posts_pkey PRIMARY KEY (id)
+);
+
+CREATE INDEX IF NOT EXISTS posts_creator_id_idx ON public.posts USING btree (creatorid);

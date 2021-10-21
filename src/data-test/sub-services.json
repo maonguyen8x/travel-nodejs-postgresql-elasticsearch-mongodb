@@ -1,0 +1,1634 @@
+[
+  {
+    "title": "Tiêu chuẩn giường Queen (Standard Queen)",
+    "description": "Tiêu chuẩn giường Queen (Standard Queen)",
+    "price": {
+      "product": "Ngày",
+      "value": 1000000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 2
+  },
+  {
+    "title": "Phòng Deluxe giường Queen (Deluxe Queen Room)",
+    "description": "Phòng Deluxe giường Queen (Deluxe Queen Room)",
+    "price": {
+      "product": "Ngày",
+      "value": 4000000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 2
+  },
+  {
+    "title": "Phòng Giường Lớn Cao Cấp (Superior KingRoom)",
+    "description": "Phòng Giường Lớn Cao Cấp (Superior KingRoom)",
+    "price": {
+      "product": "Ngày",
+      "value": 5000000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 2
+  },
+  {
+    "title": "Suite hướng thành phố có giường King (City View King Suite)",
+    "description": "Suite hướng thành phố có giường King (City View King Suite)",
+    "price": {
+      "product": "Ngày",
+      "value": 6000000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 2
+  },
+  {
+    "title": "Căn hộ Studio (Studio Apartment)",
+    "description": "Căn hộ Studio (Studio Apartment)",
+    "price": {
+      "product": "Ngày",
+      "value": 7000000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 2
+  },
+  {
+    "title": "Suite Nhìn Ra Thành Phố (Suite with City View)",
+    "description": "Suite Nhìn Ra Thành Phố (Suite with City View)",
+    "price": {
+      "product": "Ngày",
+      "value": 8000000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 2
+  },
+  {
+    "title": "Deluxe Studio có Giường cỡ King (Deluxe King Studio)",
+    "description": "Deluxe Studio có Giường cỡ King (Deluxe King Studio)",
+    "price": {
+      "product": "Ngày",
+      "value": 8000000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 2
+  },
+  {
+    "title": "Phòng Tiêu chuẩn 2 giường (Standard Twin Room)",
+    "description": "Phòng Tiêu chuẩn 2 giường (Standard Twin Room)",
+    "price": {
+      "product": "Ngày",
+      "value": 9000000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 2
+  },
+  {
+    "title": "Tiêu chuẩn giường Queen (Standard Queen)",
+    "description": "Tiêu chuẩn giường Queen (Standard Queen)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 3
+  },
+  {
+    "title": "Phòng Deluxe giường Queen (Deluxe Queen Room)",
+    "description": "Phòng Deluxe giường Queen (Deluxe Queen Room)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 3
+  },
+  {
+    "title": "Phòng Giường Lớn Cao Cấp (Superior KingRoom)",
+    "description": "Phòng Giường Lớn Cao Cấp (Superior KingRoom)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 3
+  },
+  {
+    "title": "Suite hướng thành phố có giường King (City View King Suite)",
+    "description": "Suite hướng thành phố có giường King (City View King Suite)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 3
+  },
+  {
+    "title": "Căn hộ Studio (Studio Apartment)",
+    "description": "Căn hộ Studio (Studio Apartment)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 3
+  },
+  {
+    "title": "Suite Nhìn Ra Thành Phố (Suite with City View)",
+    "description": "Suite Nhìn Ra Thành Phố (Suite with City View)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 3
+  },
+  {
+    "title": "Deluxe Studio có Giường cỡ King (Deluxe King Studio)",
+    "description": "Deluxe Studio có Giường cỡ King (Deluxe King Studio)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 3
+  },
+  {
+    "title": "Phòng Tiêu chuẩn 2 giường (Standard Twin Room)",
+    "description": "Phòng Tiêu chuẩn 2 giường (Standard Twin Room)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 3
+  },
+  {
+    "title": "Tiêu chuẩn giường Queen (Standard Queen)",
+    "description": "Tiêu chuẩn giường Queen (Standard Queen)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 4
+  },
+  {
+    "title": "Phòng Deluxe giường Queen (Deluxe Queen Room)",
+    "description": "Phòng Deluxe giường Queen (Deluxe Queen Room)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 4
+  },
+  {
+    "title": "Phòng Giường Lớn Cao Cấp (Superior KingRoom)",
+    "description": "Phòng Giường Lớn Cao Cấp (Superior KingRoom)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 4
+  },
+  {
+    "title": "Suite hướng thành phố có giường King (City View King Suite)",
+    "description": "Suite hướng thành phố có giường King (City View King Suite)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 4
+  },
+  {
+    "title": "Căn hộ Studio (Studio Apartment)",
+    "description": "Căn hộ Studio (Studio Apartment)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 4
+  },
+  {
+    "title": "Suite Nhìn Ra Thành Phố (Suite with City View)",
+    "description": "Suite Nhìn Ra Thành Phố (Suite with City View)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 4
+  },
+  {
+    "title": "Deluxe Studio có Giường cỡ King (Deluxe King Studio)",
+    "description": "Deluxe Studio có Giường cỡ King (Deluxe King Studio)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 4
+  },
+  {
+    "title": "Phòng Tiêu chuẩn 2 giường (Standard Twin Room)",
+    "description": "Phòng Tiêu chuẩn 2 giường (Standard Twin Room)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 4
+  },
+  {
+    "title": "Tiêu chuẩn giường Queen (Standard Queen)",
+    "description": "Tiêu chuẩn giường Queen (Standard Queen)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 5
+  },
+  {
+    "title": "Phòng Deluxe giường Queen (Deluxe Queen Room)",
+    "description": "Phòng Deluxe giường Queen (Deluxe Queen Room)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 5
+  },
+  {
+    "title": "Phòng Giường Lớn Cao Cấp (Superior KingRoom)",
+    "description": "Phòng Giường Lớn Cao Cấp (Superior KingRoom)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 5
+  },
+  {
+    "title": "Suite hướng thành phố có giường King (City View King Suite)",
+    "description": "Suite hướng thành phố có giường King (City View King Suite)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 5
+  },
+  {
+    "title": "Căn hộ Studio (Studio Apartment)",
+    "description": "Căn hộ Studio (Studio Apartment)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 5
+  },
+  {
+    "title": "Suite Nhìn Ra Thành Phố (Suite with City View)",
+    "description": "Suite Nhìn Ra Thành Phố (Suite with City View)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 5
+  },
+  {
+    "title": "Deluxe Studio có Giường cỡ King (Deluxe King Studio)",
+    "description": "Deluxe Studio có Giường cỡ King (Deluxe King Studio)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 5
+  },
+  {
+    "title": "Phòng Tiêu chuẩn 2 giường (Standard Twin Room)",
+    "description": "Phòng Tiêu chuẩn 2 giường (Standard Twin Room)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 5
+  },
+  {
+    "title": "Tiêu chuẩn giường Queen (Standard Queen)",
+    "description": "Tiêu chuẩn giường Queen (Standard Queen)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 6
+  },
+  {
+    "title": "Phòng Deluxe giường Queen (Deluxe Queen Room)",
+    "description": "Phòng Deluxe giường Queen (Deluxe Queen Room)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 6
+  },
+  {
+    "title": "Phòng Giường Lớn Cao Cấp (Superior KingRoom)",
+    "description": "Phòng Giường Lớn Cao Cấp (Superior KingRoom)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 6
+  },
+  {
+    "title": "Suite hướng thành phố có giường King (City View King Suite)",
+    "description": "Suite hướng thành phố có giường King (City View King Suite)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 6
+  },
+  {
+    "title": "Căn hộ Studio (Studio Apartment)",
+    "description": "Căn hộ Studio (Studio Apartment)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 6
+  },
+  {
+    "title": "Suite Nhìn Ra Thành Phố (Suite with City View)",
+    "description": "Suite Nhìn Ra Thành Phố (Suite with City View)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 6
+  },
+  {
+    "title": "Deluxe Studio có Giường cỡ King (Deluxe King Studio)",
+    "description": "Deluxe Studio có Giường cỡ King (Deluxe King Studio)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 6
+  },
+  {
+    "title": "Phòng Tiêu chuẩn 2 giường (Standard Twin Room)",
+    "description": "Phòng Tiêu chuẩn 2 giường (Standard Twin Room)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 6
+  },
+  {
+    "title": "Tiêu chuẩn giường Queen (Standard Queen)",
+    "description": "Tiêu chuẩn giường Queen (Standard Queen)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 1
+  },
+  {
+    "title": "Phòng Deluxe giường Queen (Deluxe Queen Room)",
+    "description": "Phòng Deluxe giường Queen (Deluxe Queen Room)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 1
+  },
+  {
+    "title": "Phòng Giường Lớn Cao Cấp (Superior KingRoom)",
+    "description": "Phòng Giường Lớn Cao Cấp (Superior KingRoom)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 1
+  },
+  {
+    "title": "Suite hướng thành phố có giường King (City View King Suite)",
+    "description": "Suite hướng thành phố có giường King (City View King Suite)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 1
+  },
+  {
+    "title": "Căn hộ Studio (Studio Apartment)",
+    "description": "Căn hộ Studio (Studio Apartment)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 1
+  },
+  {
+    "title": "Suite Nhìn Ra Thành Phố (Suite with City View)",
+    "description": "Suite Nhìn Ra Thành Phố (Suite with City View)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 1
+  },
+  {
+    "title": "Deluxe Studio có Giường cỡ King (Deluxe King Studio)",
+    "description": "Deluxe Studio có Giường cỡ King (Deluxe King Studio)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 1
+  },
+  {
+    "title": "Phòng Tiêu chuẩn 2 giường (Standard Twin Room)",
+    "description": "Phòng Tiêu chuẩn 2 giường (Standard Twin Room)",
+    "price": {
+      "product": "Ngày",
+      "value": 400000,
+      "currencyId": 2
+    },
+    "type": "string",
+    "attachments": [
+      {
+        "description": "string",
+        "mediaContentId": 1
+      },
+      {
+        "description": "string",
+        "mediaContentId": 2
+      },
+      {
+        "description": "string",
+        "mediaContentId": 3
+      },
+      {
+        "description": "string",
+        "mediaContentId": 4
+      },
+      {
+        "description": "string",
+        "mediaContentId": 5
+      }
+    ],
+    "facilities": "ficon-towels,ficon-hair-dryer,ficon-telephone,ficon-tv-flat-screen,ficon-soundproofing,ficon-slippers,ficon-wake-up-service",
+    "serviceId": 1
+  }
+]
