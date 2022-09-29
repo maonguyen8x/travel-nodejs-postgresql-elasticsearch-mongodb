@@ -17,12 +17,12 @@
     -   Build and Up docker container: `docker-compose build && docker-compose up -d`.<br />
 ##  Export Database: <br />
     docker-compose exec postgresql bash
-    pg_dump -U uto_tech > database.sql
+    pg_dump -U db_name > database.sql
     docker cp $(docker-compose ps -q postgresql):/database.sql ./demo/
 
 ##query redis
     redis-cli -h localhost -p 6379
     
 ##exec postgresql
-    docker exec -it utoserver_postgresql_1 psql -U uto_tech -W uto_tech
+    docker exec -it utoserver_postgresql_1 psql -U db_name -W db_name
     
